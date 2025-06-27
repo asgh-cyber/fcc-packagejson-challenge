@@ -1,11 +1,18 @@
-{
-  "name": "fcc-project",
-  "version": "1.0.0",
-  "author": "侯困困",
-  "description": "", // 显式添加空描述字段
-  "main": "index.js", // 添加默认入口文件
-  "scripts": {
-    "test": "echo \"Test command\""
+ {
+  "name": "fcc-learn-npm-package-json",
+  "author": "foobar",
+  "dependencies": {
+    "express": "^4.14.0"
   },
-  "license": "ISC" // 添加许可证声明
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": "8.11.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://idontknow/todo.git"
+  }
 }
