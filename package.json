@@ -1,0 +1,8 @@
+{
+  "name": "fcc-project",
+  "version": "1.0.0",
+  "author": "你的名字",  // ← 改成你的真实姓名或freeCodeCamp用户名
+  "scripts": {
+    "test": "echo \"Test command\""
+  }
+}
