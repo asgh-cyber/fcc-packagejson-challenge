@@ -1,9 +1,11 @@
 {
   "name": "fcc-project",
   "version": "1.0.0",
-  "author": "侯困困", 
-  "scripts": 
-  {
+  "author": "侯困困",
+  "description": "", // 显式添加空描述字段
+  "main": "index.js", // 添加默认入口文件
+  "scripts": {
     "test": "echo \"Test command\""
-  }
+  },
+  "license": "ISC" // 添加许可证声明
 }
